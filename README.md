@@ -60,5 +60,4 @@ Developed an interactive Power BI dashboard to analyze supply chain performance,
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here after upload)
-
+![Dashboard Preview](excutive dashboard.png)
